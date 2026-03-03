@@ -1,0 +1,47 @@
+{
+  "Revenue": [
+    "Platform Fees",
+    "Other Operating Revenue",
+    "Affiliate Commissions",
+    "Insurance Commissions",
+    "Refunds & Reimbursements",
+    "Interest Income",
+    "Other"
+  ],
+  "Marketing": [
+    "Paid Advertising",
+    "Events & Offline Marketing",
+    "Travel (marketing-related)",
+    "Content & SEO",
+    "PR",
+    "Design & Creative",
+    "Other"
+  ],
+  "Technology": [
+    "Marketplace Platform",
+    "Hosting & Infrastructure",
+    "SaaS Tools",
+    "Domains & Email",
+    "Payments & Transaction Fees",
+    "Hardware",
+    "Other"
+  ],
+  "Administration": [
+    "Accounting & Fiduciary",
+    "Legal & Compliance",
+    "Banking Fees",
+    "Admin Subscriptions",
+    "Insurance",
+    "Taxes & VAT",
+    "Office & Supplies",
+    "Other"
+  ],
+  "Capital & Financing": [
+    "Share Capital",
+    "Founder Contributions",
+    "Investor Contributions",
+    "Loans",
+    "Grants & Subsidies",
+    "Other"
+  ]
+}
